@@ -1,1 +1,1 @@
-worker:qianyu3.0
+worker:main.py
